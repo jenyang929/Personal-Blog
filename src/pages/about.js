@@ -18,8 +18,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Welcome to my personal blog!
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -28,26 +27,29 @@ const AboutPage = ({ data }, location) => {
             />
             <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">About Me!</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            Hi! My name is Jennifer Yang and I am a full stack software
+            developer. Welcome to my own personal blog!
+          </p>
+
+          <p>
+            I wasn't always a software engineer. As a matter of fact, I was a
+            nurse for the past 3 years and recently graduated from the{" "}
+            <a href="https://www.gracehopper.com/">Grace Hopper Program</a> at
+            Fullstack Academy.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
+            I am a ....
+            <li>Tech enthusiast</li>
+            <li>Fitness enthusiast</li>
+            <li>Bubble tea Lover</li>
+            <li>Cute fluffy animal addict</li>
+            {/* Don't forget to check out the{" "}
             <a href="https://docs.ghost.org/integrations/">
               Ghost Integrations Directory
             </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            for more ways to integrate Ghost with your favourite services. */}
           </p>
         </div>
       </article>
