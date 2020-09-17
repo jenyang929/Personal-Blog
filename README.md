@@ -1,9 +1,4 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://gatsby-london.netlify.com">
-    <img alt="Gatsby" src="./content/assets/screenshot-desktop.jpg" />
-  </a>
-</p>
 
 <h1 align="center">
   London by <a href="https://jamstack.studio">Jamstack Studio</a>
