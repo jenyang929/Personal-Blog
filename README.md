@@ -1,4 +1,4 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
 
 <h1 align="center">
   London by <a href="https://jamstack.studio">Jamstack Studio</a>
